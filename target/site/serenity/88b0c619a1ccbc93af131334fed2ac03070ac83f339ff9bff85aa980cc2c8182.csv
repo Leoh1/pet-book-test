@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pagina principal","Entrar a la pagina principal y ver todas las fotos","SUCCESS","2020-10-01T01:53:32.815-05:00[America/Bogota]","0.0","2.5"
+"Pagina principal","Entrar a la pagina principal para ver la primera foto que es un perro","SUCCESS","2020-10-01T01:53:35.323-05:00[America/Bogota]","0.0","4.19"
